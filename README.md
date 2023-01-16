@@ -8,3 +8,4 @@ Competencies:
 * Kafka
 * PostgreSQL
 * ClickHouse
+* MongoDB
