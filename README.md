@@ -9,3 +9,6 @@ Competencies:
 * PostgreSQL
 * ClickHouse
 * MongoDB
+* Grafana
+* Prometheus
+* Loki
