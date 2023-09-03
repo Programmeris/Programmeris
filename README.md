@@ -4,7 +4,8 @@ Current specialty: DevOps Engineer
 
 Competencies:
 
-* Kubernetes and related technologies(Helm, Flux2 and etc...)
+* Kubernetes and related technologies
+* Helm
 * Kafka
 * PostgreSQL
 * ClickHouse
