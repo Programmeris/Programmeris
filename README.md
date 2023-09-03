@@ -2,7 +2,7 @@
 
 Current specialty: DevOps Engineer
 
-Competencies:
+Hard Skills:
 
 * Kubernetes and related technologies
 * Helm
