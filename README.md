@@ -9,7 +9,7 @@ Hard Skills:
 * Kafka
 * PostgreSQL
 * ClickHouse
-* MongoDB
+* SeaweedFS
 * Grafana
 * Prometheus
 * Loki
