@@ -14,3 +14,4 @@ Hard Skills:
 * Grafana
 * Prometheus
 * Loki
+* Python/Bash scripting
