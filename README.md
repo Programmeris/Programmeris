@@ -5,6 +5,7 @@ Current specialty: DevOps Engineer
 Hard Skills:
 
 * Kubernetes
+* Python/Bash scripting
 * Helm
 * Flux2
 * Kafka
@@ -14,4 +15,3 @@ Hard Skills:
 * Grafana
 * Prometheus
 * Loki
-* Python/Bash scripting
